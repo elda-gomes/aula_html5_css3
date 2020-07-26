@@ -27,10 +27,7 @@ footer{
 .img-padrao{
     margin: 5px;
     width: 300px;
-}
-
-.img-left{
-    float: left;
+    height: 300px;
 }
 
 .icone{
